@@ -1,5 +1,17 @@
 # Getting Started with Create React App
 
+# Deployed Netlify Link
+
+https://romantic-turing-d247af.netlify.app
+
+# Deployed heroku Link
+
+
+
+# Backend Github Link
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
