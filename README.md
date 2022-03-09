@@ -6,7 +6,7 @@ https://romantic-turing-d247af.netlify.app
 
 # Deployed heroku Link
 
-
+https://authlogin-be.herokuapp.com/
 
 # Backend Github Link
 
