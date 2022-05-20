@@ -39,7 +39,7 @@ const App = () => {
       <div>
         <Navbar user={user} />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={user ? <Navigate to="/"/> : <Login /> />
           <Route
             path="/login"
             element={user ? <Navigate to="/" /> : <Login />}
